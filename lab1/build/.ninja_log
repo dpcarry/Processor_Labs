@@ -1,0 +1,10 @@
+# ninja log v5
+136	191	1695268210448472507	hello_world	67b29bb12bae6943
+0	27	1695268608796472735	build.ninja	d65a8f14a3aa8b02
+0	264	1695257341647909361	CMakeFiles/hello_world.dir/hello.cpp.o	906a7482a01db821
+1	257	1695267741332470993	CMakeFiles/hello_world.dir/src/name.cpp.o	cb29eda2020412fc
+0	136	1695268210400472507	CMakeFiles/hello_world.dir/src/hello.cpp.o	e8a6071034c11c91
+0	22	1695268608796472735	build.ninja	d65a8f14a3aa8b02
+1	523	1695321193357300704	CMakeFiles/hello_world.dir/src/name.cpp.o	cb29eda2020412fc
+1	526	1695321193357300704	CMakeFiles/hello_world.dir/src/hello.cpp.o	e8a6071034c11c91
+526	717	1695321193545431171	hello_world	67b29bb12bae6943
